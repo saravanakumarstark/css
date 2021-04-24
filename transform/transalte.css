@@ -1,0 +1,22 @@
+body{margin:50px}
+#box1{
+       height:300px;
+	    width:800px;
+		background-color:yellow;
+		margin:30px
+      }
+#box2{
+	  height:50px;
+      width:50px;
+      background-color:blue;
+	  margin-top:60px;
+	  margin-left:60px;
+	  float:left;
+      transition-duration:2s;
+      transition-time-function:ease-out;
+      transition-property:height;	  
+      }
+#box2:hover{
+	     transform:rotate(120deg);
+                  
+}	  

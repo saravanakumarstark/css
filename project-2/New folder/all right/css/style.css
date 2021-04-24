@@ -1,0 +1,184 @@
+body
+{
+	margin:0px;
+	padding:0px;
+	background-color:#e1e1e1;
+}
+
+#wrapper
+{
+	height:auto;
+	width:900px;
+	margin:0 auto;
+}
+
+.header
+{
+	height:120px;
+	width:900px;
+	background-color:#fff;
+	float:left;
+}
+
+.logo
+{
+	height:120px;
+	width:120px;
+                   background-color:#999;
+	float:left;
+}
+
+.logo img
+{
+	height:120px;
+	width:120px;
+	float:left;
+}	
+
+.title
+{
+	height:120px;
+	width:780px;
+	background-color:#aaa;
+	float:left;
+}
+
+.title h1
+{
+	font-size:50px;
+	text-align:center;
+	color:#069;
+}
+
+.title p
+{
+	margin-top:-38px;
+	font-style:italic;
+	font-size:25px;
+	margin-right:50px;
+	color:#069;
+	float:right;
+}
+
+.slider
+{
+	height:380px;
+	width:900px;
+	background-color:#f1f1f1;
+	float:left;	
+}
+
+
+.image
+{
+	height:380px;
+	width:500px;
+	background-color:#526875;
+	float:left;	
+}	
+
+
+.image img
+{
+	height:380px;
+	width:500px;
+}
+
+.trans
+{
+	height:190px;
+	width:400px;
+	background-color:red;
+	float:left;
+}	
+
+.trans h2
+{
+	text-align:center;
+	font-size:26px;
+	margin-top:70px;
+
+}
+
+
+
+.eligibility
+{
+	height:85px;
+	margin-top:6px;
+	margin-left:20px;
+	width:360px;
+	background-color:#fff;
+	float:left;
+}
+
+.eligibility h3,.about h3,.high h3
+{
+	text-transform:uppercase;
+	font-size:14px;
+	margin:0px;
+	text-align:center;
+	color:#fff;
+	padding:3px;
+	margin-top:5px;
+	background-color:#069;
+}
+
+.eligibility
+{
+	color:#069;
+	text-align:center;
+}
+
+.about p
+{
+	font-size:15px;
+	text-align:justify;
+	padding:15px;
+	text-indent:60px;
+}
+
+
+
+.content
+{
+	min-height:500px;
+	width:900px;
+	background-color:#f5f5f5;
+	float:left;
+}
+
+.about
+{
+	height:150px;
+	width:850px;
+	margin-top:15px;
+	margin-left:25px;
+	background-color:#fff;
+	float:left;
+}
+
+.high
+{
+	height:200px;
+	width:400px;
+	margin-top:15px;
+	margin-left:33px;
+	margin-bottom:10px;
+	background-color:#fff;
+	float:left;
+}
+
+.high ul li
+{
+	list-style-image:url("../images/ok.png");
+}
+
+.footer
+{
+	height:80px;
+	width:900px;
+	background-color:#f5f5f5;
+	border-bottom:solid 8px #069;
+	float:left;
+}

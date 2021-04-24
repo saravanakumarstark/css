@@ -1,0 +1,127 @@
+body
+{
+background-color:red;
+margin:0px;
+padding:0px;
+}
+
+#wrapper
+{
+height:auto;
+width:1000px;
+margin:0 auto;
+background-color:red
+}
+#header
+{
+height:150px;
+width:1000px;
+background-color:green;
+float:left
+}
+.logo{
+height:150px;
+width:150px;
+background-color:blue;
+ float:left;
+ }
+.title
+{
+height:150px;
+width:850px;
+background-color:pink;
+float:left
+} 
+#content
+{
+height:100px;
+width:100px;
+background-color:yellow;
+float:left;
+                   }
+.slider
+{
+height:600px;
+width:1000px;
+background-color:orange;
+float:left
+              }
+.box1{
+            height:600px;
+           width:500px;
+           background-color:orange;
+            float:left
+           }
+.box2{
+           height:210px;
+           width:500px;
+           background-color:brown;
+            float:left
+          }
+.box3{
+           height:80px;
+           width:460px;
+           margin-top:50px;
+           margin-left:20px;
+           background-color:black;
+            float:left
+          }
+.box4{
+             height:400px;
+             width:1000px;
+             background-color:green;
+              float:left
+              
+}
+.about{
+             width:950px;
+              height:350px; 
+              margin:20px;
+              background-color:yellow;
+               float:left
+             }
+.box5{
+                height:400px;
+             width:1000px;
+             background-color:pink;
+              float:left
+            }
+.program{
+             width:950px;
+              height:350px; 
+              margin:20px;
+              background-color:yellow;
+               float:left
+}
+.box6{
+             height:500px;
+             width:1000px;
+             background-color:green;
+              float:left
+              }
+.instruction1
+{
+	height:400px;
+	width:470px;
+	background-color:yellow;
+	margin-top:70px;
+	margin-left:20px;
+	float:left
+}
+
+.instruction2
+{
+	height:400px;
+	width:470px;
+	background-color:orange;
+	margin-top:70px;
+	margin-left:20px;
+	float:left
+}
+.footer
+{
+	width:1000px;
+	height:200px;
+	background-color:teal;
+	float:left;
+}

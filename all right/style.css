@@ -1,0 +1,66 @@
+body
+{
+	background-color:#f1f1f1;
+}
+
+
+#wrapper
+{
+	height:auto;
+    width:1000px;	
+	margin:0 auto;
+}	
+
+#header
+{
+	height:150px;
+	width:1000px;
+	background-color:#fff;
+}
+
+.logo
+{
+    height:150px;
+    width:100px;   
+	//background-color:blue;
+	float:left;
+}
+
+.logo img
+{
+		height:130px;
+		width:80px;
+		margin:10px;
+}
+
+
+.title
+{
+	height:150px;
+	width:900px;
+	//background-color:yellow;
+	float:left;
+	
+}
+
+.title h1
+{
+		font-size:60px;
+		text-align:center;
+		text-decoration:none;
+		color:#069;
+		font-family:arial;
+}
+
+.title h2
+{
+	font-size:30px;
+	font-family:arial;
+	text-align:right;
+	color:#069;
+	margin-top:-40px;
+	margin-right:40px;
+	
+}
+	
+

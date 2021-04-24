@@ -1,0 +1,256 @@
+body
+{
+background-color:lightgray;
+margin:0px;
+padding:0px;
+}
+
+#wrapper
+{
+height:auto;
+width:1000px;
+margin:0 auto;
+}
+#header
+{
+height:150px;
+width:1000px;
+box-shadow:5px 5px 5px black;
+float:left
+}
+.logo
+{
+	
+height:150px;
+width:150px;
+background-color:white;
+ float:left;
+ }
+ .logo img
+ {
+	 width:150px;
+	 height:150px;
+	 float:left
+ }
+.title
+{
+height:150px;
+width:850px;
+background-color:white;
+float:left
+} 
+.title h1
+{
+	text-align:center;
+	text-decoration:none;
+	font-family:arial;
+	font-size:60px;
+	color:#069;
+}
+.title h2
+{
+	font-family:arial;
+	font-size:30px;
+	color:#069;
+	float:right;
+	margin-top:-40px;
+	margin-right:40px;
+}
+
+.slider
+{
+height:500px;
+width:1000px;
+background-color:white;
+box-shadow:5px 5px 5px black;
+float:left
+              }
+.box1{
+            height:500px;
+           width:500px;
+            float:left
+           }
+		   
+.box1 img{
+            height:500px;
+           width:500px;
+            float:left
+           }		   
+		   
+		   
+.box2{
+           height:210px;
+           width:480px;
+           background-color:white;
+		   margin-left:12px;
+            float:left
+          }
+.box2 h3
+{
+		font-size:30px;
+		text-align:center;
+		font-weight:900;
+		margin-top:70px;
+		margin-left:40px;
+		background-color:white;
+		color:#069;
+		float:left
+}		  
+.box3{
+           height:80px;
+           width:460px;
+           margin-top:50px;
+           margin-left:20px;
+           background-color:white;
+		   box-shadow:5px 5px 5px black;
+            float:left
+          }
+.box3 h5{
+           text-align:center;
+		   background-color:#069;
+		   color:white;
+		   margin:0 auto;
+		  
+        }		  
+.box3 h6{
+	    
+		color:#069;
+		font-size:20px;
+		 margin-top:20px;
+		 margin-left:32px
+}
+      		  	
+	
+.box3 pre{
+     
+		  color:#069;
+		  
+		   font-size:20px;
+		 margin-top:5px;
+		 margin-left:-300px;
+		 
+		  
+        }		  		
+
+		  
+.box4{
+             height:400px;
+             width:1000px;
+             background-color:white;
+			 box-shadow:5px 5px 5px black;
+              float:left;
+              
+}
+	
+		
+.about{
+             width:950px;
+              height:350px; 
+              margin:20px;
+              background-color:white;
+			  box-shadow:5px 5px 5px black;
+               float:left
+             }
+.box4 h5{
+           text-align:center;
+		   background-color:#069;
+		   color:white;
+		   margin:0 auto;
+		  
+        }	
+.box4 h6{
+           text-indent:50px;
+		   font-size:23px;
+		   font-family:arial
+		   
+		}		  		
+
+
+.box5{
+                height:400px;
+             width:1000px;
+             background-color:white;
+              float:left
+            }
+
+.program{
+             width:950px;
+              height:300px; 
+              margin:20px;
+              background-color:white;
+               float:left
+}
+.box5 h5{
+           text-align:center;
+		   background-color:#069;
+		   color:white;
+		   margin:0 auto;
+		  
+        }	
+.box6
+{
+	width:450px;
+	height:270px;
+	margin-top:20px;
+	margin-left:20px;
+	background-color:white;
+	box-shadow:5px 5px 5px black;
+	float:left
+}		
+
+		
+
+.box7{
+             height:600px;
+             width:1000px;
+             background-color:white;
+              float:left
+              }
+img
+{
+	height:100px;
+	width:120px;
+	float:left;
+	margin:10px;
+}			  
+			  
+.instruction1
+{
+	height:500px;
+	width:470px;
+	box-shadow:5px 5px 5px black;
+	background-color:white;
+	margin-top:70px;
+	margin-left:20px;
+	float:left
+}
+
+.instruction1 h5{
+           text-align:center;
+		   background-color:#069;
+		   color:white;
+		   margin:0 auto;
+		  
+        }	
+ul li{
+	list-style-type:square;
+	font-size:20px;
+	line-height:3;
+	color:red
+	}		
+.footer
+{
+	width:1000px;
+	height:150px;
+	background-color:white;
+	float:left;
+}
+.footer img 
+{
+	height:24px;
+	width:24px;
+}
+.footer td
+{
+	word-spacing:5px
+}
